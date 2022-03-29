@@ -1,0 +1,2064 @@
+fileFormatVersion: 2
+guid: 689516aac4ff34c4c90e4388648fd7d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4874278423985981231
+    second: Terrain (16x16)_0
+  - first:
+      213: 2492004042214043949
+    second: Terrain (16x16)_1
+  - first:
+      213: 8471289998749917440
+    second: Terrain (16x16)_2
+  - first:
+      213: 397718093594370940
+    second: Terrain (16x16)_3
+  - first:
+      213: 4716054802376701170
+    second: Terrain (16x16)_4
+  - first:
+      213: -8620202154233844528
+    second: Terrain (16x16)_5
+  - first:
+      213: -7517053698926566003
+    second: Terrain (16x16)_6
+  - first:
+      213: 3020870990670601969
+    second: Terrain (16x16)_7
+  - first:
+      213: 1685935324672158413
+    second: Terrain (16x16)_8
+  - first:
+      213: 8022139226935704013
+    second: Terrain (16x16)_9
+  - first:
+      213: 5587568460378422633
+    second: Terrain (16x16)_10
+  - first:
+      213: 4987498479824627636
+    second: Terrain (16x16)_11
+  - first:
+      213: 6480251376165907240
+    second: Terrain (16x16)_12
+  - first:
+      213: -8795747966950415410
+    second: Terrain (16x16)_13
+  - first:
+      213: -6278356596846833739
+    second: Terrain (16x16)_14
+  - first:
+      213: -7850267199778421155
+    second: Terrain (16x16)_15
+  - first:
+      213: 8102182086558406705
+    second: Terrain (16x16)_16
+  - first:
+      213: 6918280329820428914
+    second: Terrain (16x16)_17
+  - first:
+      213: -3946849515626757761
+    second: Terrain (16x16)_18
+  - first:
+      213: -2698208165065819517
+    second: Terrain (16x16)_19
+  - first:
+      213: -5448943668070679941
+    second: Terrain (16x16)_20
+  - first:
+      213: -2572975058836569894
+    second: Terrain (16x16)_21
+  - first:
+      213: 5714336816974921154
+    second: Terrain (16x16)_22
+  - first:
+      213: 8704577166008928185
+    second: Terrain (16x16)_23
+  - first:
+      213: 313651839404696180
+    second: Terrain (16x16)_24
+  - first:
+      213: -1968872540364177098
+    second: Terrain (16x16)_25
+  - first:
+      213: -6401146908380638247
+    second: Terrain (16x16)_26
+  - first:
+      213: -3271834841568197018
+    second: Terrain (16x16)_27
+  - first:
+      213: -3097802831490656063
+    second: Terrain (16x16)_28
+  - first:
+      213: -8182233202742861025
+    second: Terrain (16x16)_29
+  - first:
+      213: -1730604581034617779
+    second: Terrain (16x16)_30
+  - first:
+      213: -1491035274662818768
+    second: Terrain (16x16)_31
+  - first:
+      213: -223391217462372170
+    second: Terrain (16x16)_32
+  - first:
+      213: 611065533247025525
+    second: Terrain (16x16)_33
+  - first:
+      213: 4356392584696007802
+    second: Terrain (16x16)_34
+  - first:
+      213: -8565927180804605051
+    second: Terrain (16x16)_35
+  - first:
+      213: -7788903373117692988
+    second: Terrain (16x16)_36
+  - first:
+      213: 1918823624152674874
+    second: Terrain (16x16)_37
+  - first:
+      213: 965125185638226396
+    second: Terrain (16x16)_38
+  - first:
+      213: 3631698497521491291
+    second: Terrain (16x16)_39
+  - first:
+      213: -1385159882611531606
+    second: Terrain (16x16)_40
+  - first:
+      213: 6882983052497979040
+    second: Terrain (16x16)_41
+  - first:
+      213: 5620700161029325194
+    second: Terrain (16x16)_42
+  - first:
+      213: 4373040517201769238
+    second: Terrain (16x16)_43
+  - first:
+      213: -6530495296205248430
+    second: Terrain (16x16)_44
+  - first:
+      213: 2248595124770686365
+    second: Terrain (16x16)_45
+  - first:
+      213: 59160463414151494
+    second: Terrain (16x16)_46
+  - first:
+      213: 7769017978755655707
+    second: Terrain (16x16)_47
+  - first:
+      213: 4651539075410445323
+    second: Terrain (16x16)_48
+  - first:
+      213: 2934133866269456315
+    second: Terrain (16x16)_49
+  - first:
+      213: 1034891850837087948
+    second: Terrain (16x16)_50
+  - first:
+      213: -4533138595082870998
+    second: Terrain (16x16)_51
+  - first:
+      213: 3702685922149842701
+    second: Terrain (16x16)_52
+  - first:
+      213: 510484679990689147
+    second: Terrain (16x16)_53
+  - first:
+      213: 3718556811081376101
+    second: Terrain (16x16)_54
+  - first:
+      213: -5869233480101591377
+    second: Terrain (16x16)_55
+  - first:
+      213: -2615569002567638836
+    second: Terrain (16x16)_56
+  - first:
+      213: 772467259971446145
+    second: Terrain (16x16)_57
+  - first:
+      213: -39983623799505075
+    second: Terrain (16x16)_58
+  - first:
+      213: 6999343348047764492
+    second: Terrain (16x16)_59
+  - first:
+      213: -6933530849576539303
+    second: Terrain (16x16)_60
+  - first:
+      213: -8849650766351124748
+    second: Terrain (16x16)_61
+  - first:
+      213: 5344191953466923600
+    second: Terrain (16x16)_62
+  - first:
+      213: 2110485755423906440
+    second: Terrain (16x16)_63
+  - first:
+      213: 611278257802682203
+    second: Terrain (16x16)_64
+  - first:
+      213: 8568688612705805593
+    second: Terrain (16x16)_65
+  - first:
+      213: -4293226751833479062
+    second: Terrain (16x16)_66
+  - first:
+      213: -531863552409210314
+    second: Terrain (16x16)_67
+  - first:
+      213: 3220740477721170248
+    second: Terrain (16x16)_68
+  - first:
+      213: -8232957222563989430
+    second: Terrain (16x16)_69
+  - first:
+      213: 3581976363580684779
+    second: Terrain (16x16)_70
+  - first:
+      213: 8137121077619138534
+    second: Terrain (16x16)_71
+  - first:
+      213: -4450007684230045513
+    second: Terrain (16x16)_72
+  - first:
+      213: 368488948622713827
+    second: Terrain (16x16)_73
+  - first:
+      213: -1652666043038260038
+    second: Terrain (16x16)_74
+  - first:
+      213: -3581127029532586042
+    second: Terrain (16x16)_75
+  - first:
+      213: -1130122408560378385
+    second: Terrain (16x16)_76
+  - first:
+      213: 1383883272258276261
+    second: Terrain (16x16)_77
+  - first:
+      213: -5125620877619029284
+    second: Terrain (16x16)_78
+  - first:
+      213: -7056944154279210060
+    second: Terrain (16x16)_79
+  - first:
+      213: -9178860142635623461
+    second: Terrain (16x16)_80
+  - first:
+      213: -5377211804188701585
+    second: Terrain (16x16)_81
+  - first:
+      213: -3332869691567337552
+    second: Terrain (16x16)_82
+  - first:
+      213: -7839824748867068813
+    second: Terrain (16x16)_83
+  - first:
+      213: 4860222720029096845
+    second: Terrain (16x16)_84
+  - first:
+      213: -8908544382962373700
+    second: Terrain (16x16)_85
+  - first:
+      213: 2534797647697017659
+    second: Terrain (16x16)_86
+  - first:
+      213: -701145450088738326
+    second: Terrain (16x16)_87
+  - first:
+      213: -7280874316543817821
+    second: Terrain (16x16)_88
+  - first:
+      213: 7816257180041521445
+    second: Terrain (16x16)_89
+  - first:
+      213: 4218957088357342075
+    second: Terrain (16x16)_90
+  - first:
+      213: -1647121858502193189
+    second: Terrain (16x16)_91
+  - first:
+      213: 3045001923454373135
+    second: Terrain (16x16)_92
+  - first:
+      213: 6046465229504819404
+    second: Terrain (16x16)_93
+  - first:
+      213: 146925484895311433
+    second: Terrain (16x16)_94
+  - first:
+      213: 3895720443503238059
+    second: Terrain (16x16)_95
+  - first:
+      213: -9019234469899804686
+    second: Terrain (16x16)_96
+  - first:
+      213: 3666724916130892037
+    second: Terrain (16x16)_97
+  - first:
+      213: 4557074923728586563
+    second: Terrain (16x16)_98
+  - first:
+      213: -4531858634233595940
+    second: Terrain (16x16)_99
+  - first:
+      213: -9185552814043747542
+    second: Terrain (16x16)_100
+  - first:
+      213: -8204820221692255543
+    second: Terrain (16x16)_101
+  - first:
+      213: -6233458931719022677
+    second: Terrain (16x16)_102
+  - first:
+      213: 1154340479819735195
+    second: Terrain (16x16)_103
+  - first:
+      213: 4778045797586685428
+    second: Terrain (16x16)_104
+  - first:
+      213: 6636356914981313421
+    second: Terrain (16x16)_105
+  - first:
+      213: 1686551188809007541
+    second: Terrain (16x16)_106
+  - first:
+      213: -5930776587842900371
+    second: Terrain (16x16)_107
+  - first:
+      213: -130104546997218819
+    second: Terrain (16x16)_108
+  - first:
+      213: -557614441817400054
+    second: Terrain (16x16)_109
+  - first:
+      213: -4356087948441045522
+    second: Terrain (16x16)_110
+  - first:
+      213: 2379953761323448013
+    second: Terrain (16x16)_111
+  - first:
+      213: -8392802036319243359
+    second: Terrain (16x16)_112
+  - first:
+      213: 3768474000973419263
+    second: Terrain (16x16)_113
+  - first:
+      213: -7876864015116417812
+    second: Terrain (16x16)_114
+  - first:
+      213: 2460501278191033764
+    second: Terrain (16x16)_115
+  - first:
+      213: 6516917985212256981
+    second: Terrain (16x16)_116
+  - first:
+      213: 2870588770018888475
+    second: Terrain (16x16)_117
+  - first:
+      213: 6172093022122347682
+    second: Terrain (16x16)_118
+  - first:
+      213: -4745629342412378363
+    second: Terrain (16x16)_119
+  - first:
+      213: -796906297672391504
+    second: Terrain (16x16)_120
+  - first:
+      213: 517537040645658821
+    second: Terrain (16x16)_121
+  - first:
+      213: 2348904716778239224
+    second: Terrain (16x16)_122
+  - first:
+      213: 6364211675350883068
+    second: Terrain (16x16)_123
+  - first:
+      213: -4506956802181919417
+    second: Terrain (16x16)_124
+  - first:
+      213: -8554552240816166350
+    second: Terrain (16x16)_125
+  - first:
+      213: 5155531445672774593
+    second: Terrain (16x16)_126
+  - first:
+      213: -8283946481429751769
+    second: Terrain (16x16)_127
+  - first:
+      213: 1437503401646794464
+    second: Terrain (16x16)_128
+  - first:
+      213: -8608529027667364052
+    second: Terrain (16x16)_129
+  - first:
+      213: -984624906782596688
+    second: Terrain (16x16)_130
+  - first:
+      213: -3935483887006374238
+    second: Terrain (16x16)_131
+  - first:
+      213: 9178892520020476994
+    second: Terrain (16x16)_132
+  - first:
+      213: -144014455013166516
+    second: Terrain (16x16)_133
+  - first:
+      213: -3253207453764529203
+    second: Terrain (16x16)_134
+  - first:
+      213: -7168242779200424501
+    second: Terrain (16x16)_135
+  - first:
+      213: -8219376919472097953
+    second: Terrain (16x16)_136
+  - first:
+      213: 5344690722283713150
+    second: Terrain (16x16)_137
+  - first:
+      213: 5394353238224683576
+    second: Terrain (16x16)_138
+  - first:
+      213: 8028931387866111178
+    second: Terrain (16x16)_139
+  - first:
+      213: 2961677793244026094
+    second: Terrain (16x16)_140
+  - first:
+      213: -2580880771318319752
+    second: Terrain (16x16)_141
+  - first:
+      213: -2266960901078078804
+    second: Terrain (16x16)_142
+  - first:
+      213: 4320056378629417345
+    second: Terrain (16x16)_143
+  - first:
+      213: -8930350709478521554
+    second: Terrain (16x16)_144
+  - first:
+      213: -5145103406855989666
+    second: Terrain (16x16)_145
+  - first:
+      213: -9166483627622830739
+    second: Terrain (16x16)_146
+  - first:
+      213: -8004814337585452184
+    second: Terrain (16x16)_147
+  - first:
+      213: 3764621628060604632
+    second: Terrain (16x16)_148
+  - first:
+      213: 6604877188710848269
+    second: Terrain (16x16)_149
+  - first:
+      213: -825868486881041197
+    second: Terrain (16x16)_150
+  - first:
+      213: -7169838604612941168
+    second: Terrain (16x16)_151
+  - first:
+      213: 3453583983918958284
+    second: Terrain (16x16)_152
+  - first:
+      213: 410651931711495120
+    second: Terrain (16x16)_153
+  - first:
+      213: 5771597363571221200
+    second: Terrain (16x16)_154
+  - first:
+      213: 6730495081184169055
+    second: Terrain (16x16)_155
+  - first:
+      213: -6837524412109178314
+    second: Terrain (16x16)_156
+  - first:
+      213: -5501901521787775560
+    second: Terrain (16x16)_157
+  - first:
+      213: 9194450758206215193
+    second: Terrain (16x16)_158
+  - first:
+      213: -6421699626704085242
+    second: Terrain (16x16)_159
+  - first:
+      213: 5937077426134211657
+    second: Terrain (16x16)_160
+  - first:
+      213: 4539634523322893999
+    second: Terrain (16x16)_161
+  - first:
+      213: 7377674858409704302
+    second: Terrain (16x16)_162
+  - first:
+      213: 1381096953358655919
+    second: Terrain (16x16)_163
+  - first:
+      213: -1246119774411057669
+    second: Terrain (16x16)_164
+  - first:
+      213: -2188876824016048025
+    second: Terrain (16x16)_165
+  - first:
+      213: -4405107417832508102
+    second: Terrain (16x16)_166
+  - first:
+      213: -2382722272946306601
+    second: Terrain (16x16)_167
+  - first:
+      213: -5062074783914822592
+    second: Terrain (16x16)_168
+  - first:
+      213: -8132825412538657236
+    second: Terrain (16x16)_169
+  - first:
+      213: 6713639194294539568
+    second: Terrain (16x16)_170
+  - first:
+      213: -2924923598528390240
+    second: Terrain (16x16)_171
+  - first:
+      213: -2569576397203184485
+    second: Terrain (16x16)_172
+  - first:
+      213: -1755917016175617347
+    second: Terrain (16x16)_173
+  - first:
+      213: 7587749520718450804
+    second: Terrain (16x16)_174
+  - first:
+      213: -8965309214166640406
+    second: Terrain (16x16)_175
+  - first:
+      213: 5717542947660708769
+    second: Terrain (16x16)_176
+  - first:
+      213: 8555604174256946374
+    second: Terrain (16x16)_177
+  - first:
+      213: -8391139448183714671
+    second: Terrain (16x16)_178
+  - first:
+      213: -3334663252254003784
+    second: Terrain (16x16)_179
+  - first:
+      213: -8787184027920487240
+    second: Terrain (16x16)_180
+  - first:
+      213: -6574084941075434576
+    second: Terrain (16x16)_181
+  - first:
+      213: -4115145932410100612
+    second: Terrain (16x16)_182
+  - first:
+      213: -1368366916831411373
+    second: Terrain (16x16)_183
+  - first:
+      213: 9109068276081960879
+    second: Terrain (16x16)_184
+  - first:
+      213: 5531386749260025381
+    second: Terrain (16x16)_185
+  - first:
+      213: 7210705538818229892
+    second: Terrain (16x16)_186
+  - first:
+      213: 5817009823717449006
+    second: Terrain (16x16)_187
+  - first:
+      213: -6860095979433375036
+    second: Terrain (16x16)_188
+  - first:
+      213: -4270608560755157971
+    second: Terrain (16x16)_189
+  - first:
+      213: -2472344174253680540
+    second: Terrain (16x16)_190
+  - first:
+      213: 8431256899697461617
+    second: Terrain (16x16)_191
+  - first:
+      213: 3116747617181360616
+    second: Terrain (16x16)_192
+  - first:
+      213: 3086977081868395351
+    second: Terrain (16x16)_193
+  - first:
+      213: 6865576034530116791
+    second: Terrain (16x16)_194
+  - first:
+      213: -8749531428786981354
+    second: Terrain (16x16)_195
+  - first:
+      213: 6708316555488804108
+    second: Terrain (16x16)_196
+  - first:
+      213: 778422088599744947
+    second: Terrain (16x16)_197
+  - first:
+      213: -180422380621730814
+    second: Terrain (16x16)_198
+  - first:
+      213: 408592727434307002
+    second: Terrain (16x16)_199
+  - first:
+      213: 8827063884019286320
+    second: Terrain (16x16)_200
+  - first:
+      213: -2960842824080219169
+    second: Terrain (16x16)_201
+  - first:
+      213: 6220714679681519813
+    second: Terrain (16x16)_202
+  - first:
+      213: -2940828136743067941
+    second: Terrain (16x16)_203
+  - first:
+      213: -3181029689204403973
+    second: Terrain (16x16)_204
+  - first:
+      213: 258387546596609854
+    second: Terrain (16x16)_205
+  - first:
+      213: 8741783340667957730
+    second: Terrain (16x16)_206
+  - first:
+      213: -4017477168638742736
+    second: Terrain (16x16)_207
+  - first:
+      213: 8023873128051803453
+    second: Terrain (16x16)_208
+  - first:
+      213: -2643323658540559798
+    second: Terrain (16x16)_209
+  - first:
+      213: -6481320854793714203
+    second: Terrain (16x16)_210
+  - first:
+      213: 4823493191906484955
+    second: Terrain (16x16)_211
+  - first:
+      213: 3919331440535373615
+    second: Terrain (16x16)_212
+  - first:
+      213: -7815063388765093205
+    second: Terrain (16x16)_213
+  - first:
+      213: -7025968672694644745
+    second: Terrain (16x16)_214
+  - first:
+      213: 4835518062059569895
+    second: Terrain (16x16)_215
+  - first:
+      213: -8510994141362038937
+    second: Terrain (16x16)_216
+  - first:
+      213: 4001400214675217790
+    second: Terrain (16x16)_217
+  - first:
+      213: 5466717599413017178
+    second: Terrain (16x16)_218
+  - first:
+      213: -5871440416362493620
+    second: Terrain (16x16)_219
+  - first:
+      213: 842729888952107444
+    second: Terrain (16x16)_220
+  - first:
+      213: 8231605118813326121
+    second: Terrain (16x16)_221
+  - first:
+      213: 1299053682584656668
+    second: Terrain (16x16)_222
+  - first:
+      213: -5381038420105429614
+    second: Terrain (16x16)_223
+  - first:
+      213: 7626129403571670867
+    second: Terrain (16x16)_224
+  - first:
+      213: -4289280403687580772
+    second: Terrain (16x16)_225
+  - first:
+      213: 5548511863569684565
+    second: Terrain (16x16)_226
+  - first:
+      213: -2374121795967065128
+    second: Terrain (16x16)_227
+  - first:
+      213: -3261286015597062514
+    second: Terrain (16x16)_228
+  - first:
+      213: 1810125005843290164
+    second: Terrain (16x16)_229
+  - first:
+      213: 7343749622484798105
+    second: Terrain (16x16)_230
+  - first:
+      213: 8596594489036940389
+    second: Terrain (16x16)_231
+  - first:
+      213: -2932699941860275885
+    second: Terrain (16x16)_232
+  - first:
+      213: 8757205574648845285
+    second: Terrain (16x16)_233
+  - first:
+      213: -3857792365011495334
+    second: Terrain (16x16)_234
+  - first:
+      213: -6592063199544974165
+    second: Terrain (16x16)_235
+  - first:
+      213: 4220929162166299756
+    second: Terrain (16x16)_236
+  - first:
+      213: -9060541001783442474
+    second: Terrain (16x16)_237
+  - first:
+      213: 5394005826592818829
+    second: Terrain (16x16)_238
+  - first:
+      213: 8429084218396156737
+    second: Terrain (16x16)_239
+  - first:
+      213: 3445029290972252234
+    second: Terrain (16x16)_240
+  - first:
+      213: 1216322102477080575
+    second: Terrain (16x16)_241
+  - first:
+      213: -4767596855863588624
+    second: Terrain (16x16)_242
+  - first:
+      213: 894221796232086391
+    second: Terrain (16x16)_243
+  - first:
+      213: -2029811975368384435
+    second: Terrain (16x16)_244
+  - first:
+      213: -1221519655890150921
+    second: Terrain (16x16)_245
+  - first:
+      213: 3716172165728135898
+    second: Terrain (16x16)_246
+  - first:
+      213: 8491057377600015394
+    second: Terrain (16x16)_247
+  - first:
+      213: -6665737896709415788
+    second: Terrain (16x16)_248
+  - first:
+      213: -1679284521894880835
+    second: Terrain (16x16)_249
+  - first:
+      213: -8701131627945353559
+    second: Terrain (16x16)_250
+  - first:
+      213: -6588201204012169994
+    second: Terrain (16x16)_251
+  - first:
+      213: 6967604353287541337
+    second: Terrain (16x16)_252
+  - first:
+      213: 1785782305190772425
+    second: Terrain (16x16)_253
+  - first:
+      213: 2802496035645378325
+    second: Terrain (16x16)_254
+  - first:
+      213: 3161398510409108832
+    second: Terrain (16x16)_255
+  - first:
+      213: -48384435713028110
+    second: Terrain (16x16)_256
+  - first:
+      213: 4420517722380248378
+    second: Terrain (16x16)_257
+  - first:
+      213: 8626352249414527634
+    second: Terrain (16x16)_258
+  - first:
+      213: 7938100285548724602
+    second: Terrain (16x16)_259
+  - first:
+      213: -8417627701327083900
+    second: Terrain (16x16)_260
+  - first:
+      213: 2507431148427556705
+    second: Terrain (16x16)_261
+  - first:
+      213: 6999644943015906419
+    second: Terrain (16x16)_262
+  - first:
+      213: -6204802763758509551
+    second: Terrain (16x16)_263
+  - first:
+      213: 3375067013693688066
+    second: Terrain (16x16)_264
+  - first:
+      213: 7913559242669267897
+    second: Terrain (16x16)_265
+  - first:
+      213: -676192654725924686
+    second: Terrain (16x16)_266
+  - first:
+      213: 375367972796124930
+    second: Terrain (16x16)_267
+  - first:
+      213: -2521494481105140957
+    second: Terrain (16x16)_268
+  - first:
+      213: -8714984034129709238
+    second: Terrain (16x16)_269
+  - first:
+      213: -4504306917357921975
+    second: Terrain (16x16)_270
+  - first:
+      213: 7951164686227066049
+    second: Terrain (16x16)_271
+  - first:
+      213: 4679898425997516067
+    second: Terrain (16x16)_272
+  - first:
+      213: -4447391400707007613
+    second: Terrain (16x16)_273
+  - first:
+      213: 7356128884893668686
+    second: Terrain (16x16)_274
+  - first:
+      213: 6445104083350230458
+    second: Terrain (16x16)_275
+  - first:
+      213: -870212067056402598
+    second: Terrain (16x16)_276
+  - first:
+      213: 821063893244901130
+    second: Terrain (16x16)_277
+  - first:
+      213: 6711068065837535965
+    second: Terrain (16x16)_278
+  - first:
+      213: 6697691186114553671
+    second: Terrain (16x16)_279
+  - first:
+      213: 8503896586027052640
+    second: Terrain (16x16)_280
+  - first:
+      213: -6068114127571427924
+    second: Terrain (16x16)_281
+  - first:
+      213: 5899516871575348607
+    second: Terrain (16x16)_282
+  - first:
+      213: 1581478755188272031
+    second: Terrain (16x16)_283
+  - first:
+      213: 8375766637021307783
+    second: Terrain (16x16)_284
+  - first:
+      213: -2635642770720185423
+    second: Terrain (16x16)_285
+  - first:
+      213: -3449957400461272923
+    second: Terrain (16x16)_286
+  - first:
+      213: 3396692774846252182
+    second: Terrain (16x16)_287
+  - first:
+      213: -3893762185714801688
+    second: Terrain (16x16)_288
+  - first:
+      213: 5614910667720834303
+    second: Terrain (16x16)_289
+  - first:
+      213: 4800429619045487908
+    second: Terrain (16x16)_290
+  - first:
+      213: 5714934754455290204
+    second: Terrain (16x16)_291
+  - first:
+      213: 5616453400817543015
+    second: Terrain (16x16)_292
+  - first:
+      213: -5511902213904652691
+    second: Terrain (16x16)_293
+  - first:
+      213: 6383326427621917844
+    second: Terrain (16x16)_294
+  - first:
+      213: 691695270126970123
+    second: Terrain (16x16)_295
+  - first:
+      213: -5600293192150580290
+    second: Terrain (16x16)_296
+  - first:
+      213: 7930117536627392641
+    second: Terrain (16x16)_297
+  - first:
+      213: -8826395093963246187
+    second: Terrain (16x16)_298
+  - first:
+      213: 3610411541570893622
+    second: Terrain (16x16)_299
+  - first:
+      213: -2679960287508912302
+    second: Terrain (16x16)_300
+  - first:
+      213: -464251228929767312
+    second: Terrain (16x16)_301
+  - first:
+      213: 3719354936303366106
+    second: Terrain (16x16)_302
+  - first:
+      213: -7501609339978275715
+    second: Terrain (16x16)_303
+  - first:
+      213: 7557287902780189833
+    second: Terrain (16x16)_304
+  - first:
+      213: -8690280721796434445
+    second: Terrain (16x16)_305
+  - first:
+      213: -3422200988280115397
+    second: Terrain (16x16)_306
+  - first:
+      213: -7565441916833305364
+    second: Terrain (16x16)_307
+  - first:
+      213: -2476414856083640279
+    second: Terrain (16x16)_308
+  - first:
+      213: 445128317091392240
+    second: Terrain (16x16)_309
+  - first:
+      213: 1965245552347663939
+    second: Terrain (16x16)_310
+  - first:
+      213: 6924525559007088032
+    second: Terrain (16x16)_311
+  - first:
+      213: -6237171348994471810
+    second: Terrain (16x16)_312
+  - first:
+      213: -1569584506985106854
+    second: Terrain (16x16)_313
+  - first:
+      213: -2296764130523801663
+    second: Terrain (16x16)_314
+  - first:
+      213: -4327290354901672262
+    second: Terrain (16x16)_315
+  - first:
+      213: 5534567804974301420
+    second: Terrain (16x16)_316
+  - first:
+      213: 1535948649437268002
+    second: Terrain (16x16)_317
+  - first:
+      213: -8374153195794858362
+    second: Terrain (16x16)_318
+  - first:
+      213: -5895180261582000771
+    second: Terrain (16x16)_319
+  - first:
+      213: 7978797660746456869
+    second: Terrain (16x16)_320
+  - first:
+      213: -3927756286696813730
+    second: Terrain (16x16)_321
+  - first:
+      213: -4808602584636482607
+    second: Terrain (16x16)_322
+  - first:
+      213: -1246800338109508913
+    second: Terrain (16x16)_323
+  - first:
+      213: -8063595218072698096
+    second: Terrain (16x16)_324
+  - first:
+      213: -5588786413537729128
+    second: Terrain (16x16)_325
+  - first:
+      213: -6910281414252990423
+    second: Terrain (16x16)_326
+  - first:
+      213: -3942889157884839992
+    second: Terrain (16x16)_327
+  - first:
+      213: 1674164502312902510
+    second: Terrain (16x16)_328
+  - first:
+      213: -7427149233198249285
+    second: Terrain (16x16)_329
+  - first:
+      213: 6181977347963054762
+    second: Terrain (16x16)_330
+  - first:
+      213: -3226886680203363524
+    second: Terrain (16x16)_331
+  - first:
+      213: -5632092054544101272
+    second: Terrain (16x16)_332
+  - first:
+      213: 1841912717034744272
+    second: Terrain (16x16)_333
+  - first:
+      213: -5989018005624674818
+    second: Terrain (16x16)_334
+  - first:
+      213: -3872321132558089587
+    second: Terrain (16x16)_335
+  - first:
+      213: 2582061123654545803
+    second: Terrain (16x16)_336
+  - first:
+      213: -3135675903298909032
+    second: Terrain (16x16)_337
+  - first:
+      213: 4830315236521191978
+    second: Terrain (16x16)_338
+  - first:
+      213: 8425949840588952388
+    second: Terrain (16x16)_339
+  - first:
+      213: 6204055685449214302
+    second: Terrain (16x16)_340
+  - first:
+      213: -6905119492716356268
+    second: Terrain (16x16)_341
+  - first:
+      213: 2814040268798425433
+    second: Terrain (16x16)_342
+  - first:
+      213: -519574743007416623
+    second: Terrain (16x16)_343
+  - first:
+      213: 3596915444230661415
+    second: Terrain (16x16)_344
+  - first:
+      213: -8974318268816777344
+    second: Terrain (16x16)_345
+  - first:
+      213: -8559400349944377578
+    second: Terrain (16x16)_346
+  - first:
+      213: 5649301320668813372
+    second: Terrain (16x16)_347
+  - first:
+      213: -2761667612598206734
+    second: Terrain (16x16)_348
+  - first:
+      213: -3641086811788726494
+    second: Terrain (16x16)_349
+  - first:
+      213: 5561897542864132096
+    second: Terrain (16x16)_350
+  - first:
+      213: 5342735955713332879
+    second: Terrain (16x16)_351
+  - first:
+      213: 6259112498122144904
+    second: Terrain (16x16)_352
+  - first:
+      213: -679388732445220484
+    second: Terrain (16x16)_353
+  - first:
+      213: -2625956869562190334
+    second: Terrain (16x16)_354
+  - first:
+      213: 631508015873408080
+    second: Terrain (16x16)_355
+  - first:
+      213: -2537970482287226539
+    second: Terrain (16x16)_356
+  - first:
+      213: -4240213674040532088
+    second: Terrain (16x16)_357
+  - first:
+      213: 921278748231454566
+    second: Terrain (16x16)_358
+  - first:
+      213: 307303902934046072
+    second: Terrain (16x16)_359
+  - first:
+      213: -6497747184693512180
+    second: Terrain (16x16)_360
+  - first:
+      213: -466872694931874833
+    second: Terrain (16x16)_361
+  - first:
+      213: 3198343457121335105
+    second: Terrain (16x16)_362
+  - first:
+      213: 4560556409591758403
+    second: Terrain (16x16)_363
+  - first:
+      213: 7535679218019414124
+    second: Terrain (16x16)_364
+  - first:
+      213: -102211525398796161
+    second: Terrain (16x16)_365
+  - first:
+      213: 1094304405095458039
+    second: Terrain (16x16)_366
+  - first:
+      213: 6132505353680963059
+    second: Terrain (16x16)_367
+  - first:
+      213: 533826973041824590
+    second: Terrain (16x16)_368
+  - first:
+      213: -8447567262885732027
+    second: Terrain (16x16)_369
+  - first:
+      213: -1484007135645042929
+    second: Terrain (16x16)_370
+  - first:
+      213: -2878468865164519464
+    second: Terrain (16x16)_371
+  - first:
+      213: 6321837723204361190
+    second: Terrain (16x16)_372
+  - first:
+      213: 424506220899465073
+    second: Terrain (16x16)_373
+  - first:
+      213: 8442540784054068596
+    second: Terrain (16x16)_374
+  - first:
+      213: -2751632238802963212
+    second: Terrain (16x16)_375
+  - first:
+      213: -1097385954390106804
+    second: Terrain (16x16)_376
+  - first:
+      213: -1046894902009715870
+    second: Terrain (16x16)_377
+  - first:
+      213: 4416059514641328570
+    second: Terrain (16x16)_378
+  - first:
+      213: 1235751679205788523
+    second: Terrain (16x16)_379
+  - first:
+      213: -3555193398437103098
+    second: Terrain (16x16)_380
+  - first:
+      213: -1439965124969112603
+    second: Terrain (16x16)_381
+  - first:
+      213: 3762748770851422839
+    second: Terrain (16x16)_382
+  - first:
+      213: 1586510379245487583
+    second: Terrain (16x16)_383
+  - first:
+      213: -2944447696240855413
+    second: Terrain (16x16)_384
+  - first:
+      213: 6111963684588827117
+    second: Terrain (16x16)_385
+  - first:
+      213: -3951735863724427676
+    second: Terrain (16x16)_386
+  - first:
+      213: 286954071998453954
+    second: Terrain (16x16)_387
+  - first:
+      213: 3877560480806893181
+    second: Terrain (16x16)_388
+  - first:
+      213: -1706331099194401342
+    second: Terrain (16x16)_389
+  - first:
+      213: -7161466658066247829
+    second: Terrain (16x16)_390
+  - first:
+      213: 1029726477843924889
+    second: Terrain (16x16)_391
+  - first:
+      213: -5897157122012117982
+    second: Terrain (16x16)_392
+  - first:
+      213: 1810432294708210729
+    second: Terrain (16x16)_393
+  - first:
+      213: 6995977751491071957
+    second: Terrain (16x16)_394
+  - first:
+      213: -60405649435888734
+    second: Terrain (16x16)_395
+  - first:
+      213: -1532533351543797152
+    second: Terrain (16x16)_396
+  - first:
+      213: -166273586869117658
+    second: Terrain (16x16)_397
+  - first:
+      213: -3002000104801991573
+    second: Terrain (16x16)_398
+  - first:
+      213: -8067532100825174360
+    second: Terrain (16x16)_399
+  - first:
+      213: -2876167133486215404
+    second: Terrain (16x16)_400
+  - first:
+      213: 2283765479415020819
+    second: Terrain (16x16)_401
+  - first:
+      213: -4342025112855967323
+    second: Terrain (16x16)_402
+  - first:
+      213: 582988187363386355
+    second: Terrain (16x16)_403
+  - first:
+      213: 5154030963805915248
+    second: Terrain (16x16)_404
+  - first:
+      213: 5911613603921508986
+    second: Terrain (16x16)_405
+  - first:
+      213: -4249247329304408054
+    second: Terrain (16x16)_406
+  - first:
+      213: -7940900416534962655
+    second: Terrain (16x16)_407
+  - first:
+      213: 6037023003557915106
+    second: Terrain (16x16)_408
+  - first:
+      213: 7419457255729855960
+    second: Terrain (16x16)_409
+  - first:
+      213: 2493626021640833350
+    second: Terrain (16x16)_410
+  - first:
+      213: -122393747460216801
+    second: Terrain (16x16)_411
+  - first:
+      213: 5126857237226358481
+    second: Terrain (16x16)_412
+  - first:
+      213: -3195735697761248236
+    second: Terrain (16x16)_413
+  - first:
+      213: 3162292213725120305
+    second: Terrain (16x16)_414
+  - first:
+      213: -8247294088861032852
+    second: Terrain (16x16)_415
+  - first:
+      213: 6000200716431738972
+    second: Terrain (16x16)_416
+  - first:
+      213: -4093004401222416856
+    second: Terrain (16x16)_417
+  - first:
+      213: 4216625031495120506
+    second: Terrain (16x16)_418
+  - first:
+      213: 3194364011314566239
+    second: Terrain (16x16)_419
+  - first:
+      213: 8732748686276510912
+    second: Terrain (16x16)_420
+  - first:
+      213: -585910889239221886
+    second: Terrain (16x16)_421
+  - first:
+      213: -3010275957316776280
+    second: Terrain (16x16)_422
+  - first:
+      213: 4537710881162860202
+    second: Terrain (16x16)_423
+  - first:
+      213: 8347627794056147474
+    second: Terrain (16x16)_424
+  - first:
+      213: -6485330058935376833
+    second: Terrain (16x16)_425
+  - first:
+      213: -5642335717333344972
+    second: Terrain (16x16)_426
+  - first:
+      213: -8117309755672071491
+    second: Terrain (16x16)_427
+  - first:
+      213: 4225651796686949648
+    second: Terrain (16x16)_428
+  - first:
+      213: -7589427082846642528
+    second: Terrain (16x16)_429
+  - first:
+      213: 1025200935668139326
+    second: Terrain (16x16)_430
+  - first:
+      213: 6807210434996203278
+    second: Terrain (16x16)_431
+  - first:
+      213: 4821177125481316703
+    second: Terrain (16x16)_432
+  - first:
+      213: 8634730362938217787
+    second: Terrain (16x16)_433
+  - first:
+      213: -594153944183050575
+    second: Terrain (16x16)_434
+  - first:
+      213: 2171854155849449721
+    second: Terrain (16x16)_435
+  - first:
+      213: 6879730532576126896
+    second: Terrain (16x16)_436
+  - first:
+      213: -4128611793701808579
+    second: Terrain (16x16)_437
+  - first:
+      213: 2575894824638778720
+    second: Terrain (16x16)_438
+  - first:
+      213: 4278249274238208794
+    second: Terrain (16x16)_439
+  - first:
+      213: 3794673382295729208
+    second: Terrain (16x16)_440
+  - first:
+      213: 69788093191981655
+    second: Terrain (16x16)_441
+  - first:
+      213: 2100549837541533651
+    second: Terrain (16x16)_442
+  - first:
+      213: -5696680980889753864
+    second: Terrain (16x16)_443
+  - first:
+      213: -4416024542563491214
+    second: Terrain (16x16)_444
+  - first:
+      213: 3505283833730305107
+    second: Terrain (16x16)_445
+  - first:
+      213: 7142522600466461865
+    second: Terrain (16x16)_446
+  - first:
+      213: -5936555815768010877
+    second: Terrain (16x16)_447
+  - first:
+      213: -3747523017329227549
+    second: Terrain (16x16)_448
+  - first:
+      213: 1068515246521036389
+    second: Terrain (16x16)_449
+  - first:
+      213: 6858265909378872159
+    second: Terrain (16x16)_450
+  - first:
+      213: 2034638396766355227
+    second: Terrain (16x16)_451
+  - first:
+      213: -3722418034533750394
+    second: Terrain (16x16)_452
+  - first:
+      213: 3879417647232303209
+    second: Terrain (16x16)_453
+  - first:
+      213: 9166802010179179297
+    second: Terrain (16x16)_454
+  - first:
+      213: -5837676548962014057
+    second: Terrain (16x16)_455
+  - first:
+      213: -2119060543770980209
+    second: Terrain (16x16)_456
+  - first:
+      213: 8835446555137595074
+    second: Terrain (16x16)_457
+  - first:
+      213: 8428204161099602048
+    second: Terrain (16x16)_458
+  - first:
+      213: 6411114416413535135
+    second: Terrain (16x16)_459
+  - first:
+      213: 4999258557928794598
+    second: Terrain (16x16)_460
+  - first:
+      213: -3144302766613804424
+    second: Terrain (16x16)_461
+  - first:
+      213: -751515196731070219
+    second: Terrain (16x16)_462
+  - first:
+      213: 3015192799290046431
+    second: Terrain (16x16)_463
+  - first:
+      213: -6793355428787734658
+    second: Terrain (16x16)_464
+  - first:
+      213: -7995101684939884482
+    second: Terrain (16x16)_465
+  - first:
+      213: 5846623633456291566
+    second: Terrain (16x16)_466
+  - first:
+      213: 1318025832096080860
+    second: Terrain (16x16)_467
+  - first:
+      213: -7530470939841615930
+    second: Terrain (16x16)_468
+  - first:
+      213: -6459972749113181717
+    second: Terrain (16x16)_469
+  - first:
+      213: -7642758515213305203
+    second: Terrain (16x16)_470
+  - first:
+      213: -5602907474591533736
+    second: Terrain (16x16)_471
+  - first:
+      213: -8055646443150341462
+    second: Terrain (16x16)_472
+  - first:
+      213: -4603169256751055926
+    second: Terrain (16x16)_473
+  - first:
+      213: 5429861508567038338
+    second: Terrain (16x16)_474
+  - first:
+      213: -8284049778615633345
+    second: Terrain (16x16)_475
+  - first:
+      213: 1881166265251354063
+    second: Terrain (16x16)_476
+  - first:
+      213: 1531451856670992544
+    second: Terrain (16x16)_477
+  - first:
+      213: 2041561686241653375
+    second: Terrain (16x16)_478
+  - first:
+      213: -8633778371243082887
+    second: Terrain (16x16)_479
+  - first:
+      213: -7611178665302753223
+    second: Terrain (16x16)_480
+  - first:
+      213: -5167678560994469457
+    second: Terrain (16x16)_481
+  - first:
+      213: 827780875468729632
+    second: Terrain (16x16)_482
+  - first:
+      213: -3762985658321064417
+    second: Terrain (16x16)_483
+  - first:
+      213: 3954326400196641459
+    second: Terrain (16x16)_484
+  - first:
+      213: 9200195697452383795
+    second: Terrain (16x16)_485
+  - first:
+      213: -4000837948303786701
+    second: Terrain (16x16)_486
+  - first:
+      213: 1427124167001632551
+    second: Terrain (16x16)_487
+  - first:
+      213: -601006244078986932
+    second: Terrain (16x16)_488
+  - first:
+      213: 1881853516881099897
+    second: Terrain (16x16)_489
+  - first:
+      213: 2738974150971380189
+    second: Terrain (16x16)_490
+  - first:
+      213: 1052347622136609102
+    second: Terrain (16x16)_491
+  - first:
+      213: 1495176906764543161
+    second: Terrain (16x16)_492
+  - first:
+      213: 5844032811570852146
+    second: Terrain (16x16)_493
+  - first:
+      213: 4107932405554580098
+    second: Terrain (16x16)_494
+  - first:
+      213: -5544346855358024615
+    second: Terrain (16x16)_495
+  - first:
+      213: 6795687177863504184
+    second: Terrain (16x16)_496
+  - first:
+      213: -1288281806640406852
+    second: Terrain (16x16)_497
+  - first:
+      213: 6679196117534355135
+    second: Terrain (16x16)_498
+  - first:
+      213: -9140190300787623631
+    second: Terrain (16x16)_499
+  - first:
+      213: 5404847440008563448
+    second: Terrain (16x16)_500
+  - first:
+      213: 9208179015753558295
+    second: Terrain (16x16)_501
+  - first:
+      213: 4136406856921718286
+    second: Terrain (16x16)_502
+  - first:
+      213: -5040896630517514007
+    second: Terrain (16x16)_503
+  - first:
+      213: -6343094079838327564
+    second: Terrain (16x16)_504
+  - first:
+      213: 6472425245498782335
+    second: Terrain (16x16)_505
+  - first:
+      213: -2641525779646014789
+    second: Terrain (16x16)_506
+  - first:
+      213: -7034279983995683411
+    second: Terrain (16x16)_507
+  - first:
+      213: -6972785413308485995
+    second: Terrain (16x16)_508
+  - first:
+      213: 3931046110218348458
+    second: Terrain (16x16)_509
+  - first:
+      213: -6334233484075978200
+    second: Terrain (16x16)_510
+  - first:
+      213: 5161857879968416407
+    second: Terrain (16x16)_511
+  - first:
+      213: 4226115946900900486
+    second: Terrain (16x16)_512
+  - first:
+      213: -6027060872010290459
+    second: Terrain (16x16)_513
+  - first:
+      213: 6663049755875137128
+    second: Terrain (16x16)_514
+  - first:
+      213: 8276740352568426472
+    second: Terrain (16x16)_515
+  - first:
+      213: -621569736508292013
+    second: Terrain (16x16)_516
+  - first:
+      213: -5212509854351436475
+    second: Terrain (16x16)_517
+  - first:
+      213: 3953153913691673984
+    second: Terrain (16x16)_518
+  - first:
+      213: 7271305844028621184
+    second: Terrain (16x16)_519
+  - first:
+      213: 4891314415131109068
+    second: Terrain (16x16)_520
+  - first:
+      213: -8088260378367810767
+    second: Terrain (16x16)_521
+  - first:
+      213: 2649286963577159795
+    second: Terrain (16x16)_522
+  - first:
+      213: -5612812470182087960
+    second: Terrain (16x16)_523
+  - first:
+      213: -6189696102479669514
+    second: Terrain (16x16)_524
+  - first:
+      213: 7486772339434719814
+    second: Terrain (16x16)_525
+  - first:
+      213: 5362032849528714814
+    second: Terrain (16x16)_526
+  - first:
+      213: 3866059182231333047
+    second: Terrain (16x16)_527
+  - first:
+      213: 8424083816624585483
+    second: Terrain (16x16)_528
+  - first:
+      213: 1893243128220387876
+    second: Terrain (16x16)_529
+  - first:
+      213: -4531021837723771915
+    second: Terrain (16x16)_530
+  - first:
+      213: -4432625293507207622
+    second: Terrain (16x16)_531
+  - first:
+      213: -6222935775707864154
+    second: Terrain (16x16)_532
+  - first:
+      213: 504309482263262361
+    second: Terrain (16x16)_533
+  - first:
+      213: 211176480666025720
+    second: Terrain (16x16)_534
+  - first:
+      213: -1399041510913894444
+    second: Terrain (16x16)_535
+  - first:
+      213: -8697393896467702974
+    second: Terrain (16x16)_536
+  - first:
+      213: -7628103313844218341
+    second: Terrain (16x16)_537
+  - first:
+      213: 6920502992051867876
+    second: Terrain (16x16)_538
+  - first:
+      213: -6158097614382542253
+    second: Terrain (16x16)_539
+  - first:
+      213: 3402020044725170790
+    second: Terrain (16x16)_540
+  - first:
+      213: -8008836329884352999
+    second: Terrain (16x16)_541
+  - first:
+      213: -8108354096851797133
+    second: Terrain (16x16)_542
+  - first:
+      213: -3420632368009871629
+    second: Terrain (16x16)_543
+  - first:
+      213: -8454785500117885938
+    second: Terrain (16x16)_544
+  - first:
+      213: -6370837793401913941
+    second: Terrain (16x16)_545
+  - first:
+      213: 7344141158585786778
+    second: Terrain (16x16)_546
+  - first:
+      213: 6077605970277837571
+    second: Terrain (16x16)_547
+  - first:
+      213: -8728131658056850914
+    second: Terrain (16x16)_548
+  - first:
+      213: 1702036080451154009
+    second: Terrain (16x16)_549
+  - first:
+      213: -6164549185617120263
+    second: Terrain (16x16)_550
+  - first:
+      213: 3048818213913168607
+    second: Terrain (16x16)_551
+  - first:
+      213: 143269454900686194
+    second: Terrain (16x16)_552
+  - first:
+      213: -2561472538462724310
+    second: Terrain (16x16)_553
+  - first:
+      213: -6872728048564586269
+    second: Terrain (16x16)_554
+  - first:
+      213: 3017799832655678158
+    second: Terrain (16x16)_555
+  - first:
+      213: 3359870873880231796
+    second: Terrain (16x16)_556
+  - first:
+      213: -3603284401597369183
+    second: Terrain (16x16)_557
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain (16x16)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8f6f139951b5cb0800000000000000
+      internalID: -4874278423985981231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2171032970659220800000000000000
+      internalID: 2492004042214043949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001eeccfe51109570800000000000000
+      internalID: 8471289998749917440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732079bf7af48500800000000000000
+      internalID: 397718093594370940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f430f42bdac27140800000000000000
+      internalID: 4716054802376701170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca5d000d3ee5880800000000000000
+      internalID: -8620202154233844528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8522f5ec7f0ea790800000000000000
+      internalID: -7517053698926566003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1437292a4ce920800000000000000
+      internalID: 3020870990670601969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaed5dce35a56710800000000000000
+      internalID: 1685935324672158413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (16x16)_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ba30bf1d545f60800000000000000
+      internalID: 8022139226935704013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7251816e293fe2146bfc2734892bfdac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
